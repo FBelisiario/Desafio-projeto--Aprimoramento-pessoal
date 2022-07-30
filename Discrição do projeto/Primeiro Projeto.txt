@@ -1,0 +1,56 @@
+(Aprimorameto Pessoal)
+
+ Entarda de dados/ (novo/contesto - pessoal-profissional-famiiar-apredizado continuo e outros)
+
+pessoal -list/ (1-100)* "1 a 15 teste"
+
+- item 1
+  solução (?)
+  status/ (processando...)
+  finalização (concluido 100%)-(concluido mais nao finalizado -item))
+  
+- iten 3 / solução(?) status -(p) finalizado
+- iten 4 / solução /  status -(P) finalizado 
+
+profissional -list/ (1-100)* "1 a 15 teste"
+
+- item 1
+  solução (?)
+  status/ (processando...)
+  finalização (concluido 100%)-(concluido mais nao finalizado -item))
+
+- item 2
+  solução (?)
+  status/ (continuo apredizado)
+  Progresso/ (%) ou (item)
+  finalização (%) ou (item)
+(%) 10%-100% ou (item) 1 - 100)
+  
+- iten 3 / solução(?) status -(p) finalizado
+- iten 4 / solução /  status -(P) finalizado 
+
+familiar -list/ (1-100)* "1 a 15 teste"
+
+- item 1
+  solução (?)
+  status/ (processando...)
+  finalização (concluido 100%)-(concluido mais nao finalizado -item))
+
+- item 2
+  solução (?)
+  status/ (continuo apredizado)
+  Progresso/ (%) ou (item)
+  finalização (%) ou (item)
+(%) 10%-100% ou (item) 1 - 100)
+  
+- iten 3 / solução(?) status -(p) finalizado
+- iten 4 / solução /  status -(P) finalizado 
+
+Continuo aprendizado -list/ (1-100)* "1 a 15 teste"
+
+- item 2
+  solução (?)
+  status/ (continuo apredizado)
+  Progresso/ (%) ou (item)
+  finalização (%) ou (item)
+(%) 10%-100% ou (item) 1 - 100)
